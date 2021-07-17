@@ -19,6 +19,6 @@ Gradient Descent is an optimization algorithm for finding a local minimum of a d
 
 8- Adam
 
-## here is my comarison between these algorithms
+## here is my comparison between these algorithms
 
 https://drive.google.com/file/d/14ilsKdUWm3NtHvpZt_fDobDB-JuTz7mf/view?usp=sharing
